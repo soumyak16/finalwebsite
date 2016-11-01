@@ -9,7 +9,14 @@
 		<ul>
 			<li>Home</li>
 			<li>About Us</li>
-			<li><a href="about.asp">Contact<a></li>
+			<li>Contact</li>
 		</ul>
+			<h1>
+				Welcome to our website.
+			</h1>
+				<p>
+					We have a playlist for every person. For every mood. For every moment.
+				</p>
 	</body>	
 </html>
+
