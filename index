@@ -1,27 +1,29 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 	<head>
 
-	
+	<script src=""></script>
+
+
+      <link rel="stylesheet" type="text/css" href="mystyle.css"></head>
 		<title>
-			Website Name
+			Soumya Khedkar
 		</title>
 	</head>
 	<body>	
-		//bootstrap//
+
 		
 
 		<ul>
 			<li>Home</li>
-			<li>About Us</li>
+			<li>About Me</li>
 			<li>Contact</li>
 		</ul>
 			<h1>
-				Welcome to our website.
+				Welcome to my website
 			</h1>
 				<p>
-					We have a playlist for every person. For every mood. For every moment.
+					My name is Soumya Khedkar. I am 20 years old, an Anthropology student at the University of Exeter and am interested in a career in media and public relations.
 				</p>
 	</body>	
 </html>
-
